@@ -13,7 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonsunny17&count_private=true&show_icons=true&theme=tokyonight)
 
 ### :pencil: Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junsys223)](https://solved.ac/junsys223)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsys223)](https://solved.ac/junsys223/)
 <!--
 **yoonsunny17/yoonsunny17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
