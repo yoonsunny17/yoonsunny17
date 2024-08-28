@@ -17,12 +17,12 @@
 <hr />
 
 ### 🌱 GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonsunny17&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonsunny17&show_icons=true&theme=tokyonight)
 
 <hr />
 
 ### ✏️ languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsunny17&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsunny17&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yoonsunny17/yoonsunny17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
