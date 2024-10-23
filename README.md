@@ -14,8 +14,8 @@
 ### 💪🏼 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white">
 
-<hr />
 
+<!--
 ### 🌱 GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonsunny17&show_icons=true&theme=tokyonight)
 
@@ -23,7 +23,7 @@
 
 ### ✏️ languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsunny17&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 **yoonsunny17/yoonsunny17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
